@@ -1,0 +1,368 @@
+TWhereami
+v7
+r0
+t337313097.843859
+cCheck dependencies
+cProcessInfoPlistFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/Info.plist Whereami-Info.plist
+cCompileXIB /Users/wooobing/Documents/Whereami/MainWindow.xib
+cProcessPCH /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch.gch Whereami_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/main.o /Users/wooobing/Documents/Whereami/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/WhereamiAppDelegate.o /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/MapPoint.o /Users/wooobing/Documents/Whereami/Classes/MapPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla normal i386
+cGenerateDSYMFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app.dSYM /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla
+cTouch /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D5C9BDB00000000000002FE
+t1297914843
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/wooobing/Documents/Whereami/Classes/MapPoint.h
+c000000004DE8668B000000000000020C
+t1307076235
+s524
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/wooobing/Documents/Whereami/Classes/MapPoint.m
+c000000004DE86704000000000000019E
+t1307076356
+s414
+i"MapPoint.h"
+
+N/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.h
+c000000004DE9039D0000000000000285
+t1307116445
+s645
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m
+c000000004DE947980000000000001115
+t1307133848
+s4373
+i"WhereamiAppDelegate.h"
+i"MapPoint.h"
+
+N/Users/wooobing/Documents/Whereami/MainWindow.xib
+c000000004DE9094B000000000000650C
+t1307117899
+s25868
+
+N/Users/wooobing/Documents/Whereami/Whereami_Prefix.pch
+c000000004DE6D88100000000000000B9
+t1306974337
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app
+t1307123406
+s204
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app.dSYM
+t1307123406
+s102
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Info.plist
+t1307053368
+s595
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/MainWindow.nib
+t1307117911
+s3677
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/PkgInfo
+t1307053368
+s8
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami
+t1307123406
+s22956
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app
+t1315534470
+s204
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app.dSYM
+t1307133859
+s102
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/Info.plist
+t1315534470
+s587
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/MainWindow.nib
+t1307133857
+s3677
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/PkgInfo
+t1315534470
+s8
+
+N/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla
+t1307133859
+s22956
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/MapPoint.o
+t1307133859
+s11992
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/Whereami.LinkFileList
+c000000004DE86894000000000000017B
+t1307076756
+s379
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/WhereamiAppDelegate.o
+t1307133859
+s63116
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/blabla.LinkFileList
+c000000004DE947A0000000000000017B
+t1307133856
+s379
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/main.o
+t1307133859
+s6304
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/StaticAnalyzer/normal/i386/WhereamiAppDelegate.plist
+t1307054111
+s276
+
+N/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/StaticAnalyzer/normal/i386/main.plist
+t1307054111
+s276
+
+N/Users/wooobing/Documents/Whereami/main.m
+c000000004DE6D8810000000000000163
+t1306974337
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch.gch
+t1307133859
+s15814064
+
+N/var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch.pth
+t1307054110
+s3352944
+
+NWhereami-Info.plist
+c000000004DE6D881000000000000038D
+t1306974337
+s909
+
+CAnalyze /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m
+s328746911.021577
+e328746911.098928
+r1
+xAnalyze
+x/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m
+lSLF07#2@72"Analyze /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m328746911#328746911#0(0"0(0#0#64"/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m8631381472#1937"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -include /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch --analyze /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m -o /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/StaticAnalyzer/normal/i386/WhereamiAppDelegate.plist0#
+
+CAnalyze /Users/wooobing/Documents/Whereami/main.m
+s328746911.019880
+e328746911.097018
+r1
+xAnalyze
+x/Users/wooobing/Documents/Whereami/main.m
+lSLF07#2@49"Analyze /Users/wooobing/Documents/Whereami/main.m328746911#328746911#0(0"0(0#0#41"/Users/wooobing/Documents/Whereami/main.m8631557216#1899"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -include /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch --analyze /Users/wooobing/Documents/Whereami/main.m -o /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337313097#337313097#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/MapPoint.o /Users/wooobing/Documents/Whereami/Classes/MapPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826659.556750
+e328826659.634596
+r1
+xCompileC
+xbuild/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/MapPoint.o
+x/Users/wooobing/Documents/Whereami/Classes/MapPoint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/wooobing/Documents/Whereami/Classes/MapPoint.m328826659#328826659#0(0"0(0#0#53"/Users/wooobing/Documents/Whereami/Classes/MapPoint.m8639365856#1898"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -include /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch -c /Users/wooobing/Documents/Whereami/Classes/MapPoint.m -o /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/MapPoint.o0#
+
+CCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/WhereamiAppDelegate.o /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826659.556100
+e328826659.643754
+r1
+xCompileC
+xbuild/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/WhereamiAppDelegate.o
+x/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m328826659#328826659#0(0"0(0#0#64"/Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m8639465472#1920"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -include /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch -c /Users/wooobing/Documents/Whereami/Classes/WhereamiAppDelegate.m -o /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/WhereamiAppDelegate.o0#
+
+CCompileC build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/main.o /Users/wooobing/Documents/Whereami/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826659.555304
+e328826659.596607
+r1
+xCompileC
+xbuild/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/main.o
+x/Users/wooobing/Documents/Whereami/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/wooobing/Documents/Whereami/main.m328826659#328826659#0(0"0(0#0#41"/Users/wooobing/Documents/Whereami/main.m8640132832#1882"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -include /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch -c /Users/wooobing/Documents/Whereami/main.m -o /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/wooobing/Documents/Whereami/MainWindow.xib
+s328826656.106942
+e328826657.883688
+r1
+xCompileXIB
+x/Users/wooobing/Documents/Whereami/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328826656#328826657#0(0"0(0#0#49"/Users/wooobing/Documents/Whereami/MainWindow.xib8630982880#557"    cd /Users/wooobing/Documents/Whereami    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/MainWindow.nib /Users/wooobing/Documents/Whereami/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app.dSYM /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami
+s328816206.682707
+e328816206.736671
+r1
+xGenerateDSYMFile
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app.dSYM
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Whereami.app.dSYM build/Debug-iphonesimulator/Whereami.app/Whereami328816206#328816206#0(0"0(0#0#84"/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami8639820544#374"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app.dSYM0#
+
+CGenerateDSYMFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app.dSYM /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla
+s328826659.778781
+e328826659.826011
+r1
+xGenerateDSYMFile
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app.dSYM
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/blabla.app.dSYM build/Debug-iphonesimulator/blabla.app/blabla328826659#328826659#0(0"0(0#0#80"/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla8637484064#368"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app.dSYM0#
+
+CLd /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami normal i386
+s328816206.583159
+e328816206.682633
+r1
+xLd
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami
+xnormal
+xi386
+lSLF07#2@89"Link /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami328816206#328816206#0(0"0(0#0#0"8637318880#927"    cd /Users/wooobing/Documents/Whereami    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -filelist /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/Whereami.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Whereami0#
+
+CLd /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla normal i386
+s328826659.643830
+e328826659.778650
+r1
+xLd
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla
+xnormal
+xi386
+lSLF07#2@85"Link /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla328826659#328826659#0(0"0(0#0#0"8638585536#921"    cd /Users/wooobing/Documents/Whereami    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -filelist /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Objects-normal/i386/blabla.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/blabla0#
+
+CProcessInfoPlistFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Info.plist Whereami-Info.plist
+s328746167.842218
+e328746168.170326
+r1
+xProcessInfoPlistFile
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Info.plist
+xWhereami-Info.plist
+lSLF07#2@27"Process Whereami-Info.plist328746167#328746168#0(0"0(0#0#54"/Users/wooobing/Documents/Whereami/Whereami-Info.plist8630986848#470"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Whereami-Info.plist -genpkginfo /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/Info.plist Whereami-Info.plist
+s337227270.444052
+e337227270.489007
+r1
+xProcessInfoPlistFile
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/Info.plist
+xWhereami-Info.plist
+lSLF07#2@27"Process Whereami-Info.plist337227270#337227270#0(0"0(0#0#54"/Users/wooobing/Documents/Whereami/Whereami-Info.plist13229813538947188#466"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Whereami-Info.plist -genpkginfo /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app/Info.plist0#
+
+CProcessPCH /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch.gch Whereami_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826657.883869
+e328826659.555169
+r1
+xProcessPCH
+x/var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch.gch
+xWhereami_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Whereami_Prefix.pch328826657#328826659#0(0"0(0#0#54"/Users/wooobing/Documents/Whereami/Whereami_Prefix.pch8633070624#1777"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/blabla-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -c /Users/wooobing/Documents/Whereami/Whereami_Prefix.pch -o /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-auryhdxscqolnjebaerchuzmwwtr/Whereami_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch.pth Whereami_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s328746910.513491
+e328746911.019245
+r1
+xProcessPCH
+x/var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch.pth
+xWhereami_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@30"Precompile Whereami_Prefix.pch328746910#328746911#0(0"0(0#0#54"/Users/wooobing/Documents/Whereami/Whereami_Prefix.pch8608686624#1776"    cd /Users/wooobing/Documents/Whereami    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-generated-files.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-own-target-headers.hmap -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-all-target-headers.hmap -iquote /Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/Whereami-project-headers.hmap -F/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator -I/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/include -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources/i386 -I/Users/wooobing/Documents/Whereami/build/Whereami.build/Debug-iphonesimulator/Whereami.build/DerivedSources -c /Users/wooobing/Documents/Whereami/Whereami_Prefix.pch -o /var/folders/vT/vTnjXLIQHdCIRbO0HGc7r++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Whereami_Prefix-gwzlcznitajkrrdfvapkdzbjgocr/Whereami_Prefix.pch.pth0#
+
+CTouch /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app
+s328816206.736751
+e328816206.738501
+r1
+xTouch
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app
+lSLF07#2@81"Touch /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app328816206#328816206#0(0"0(0#0#0"8638780416#271"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/Whereami.app0#
+
+CTouch /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app
+s337227270.489637
+e337227270.531998
+r1
+xTouch
+x/Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app
+lSLF07#2@79"Touch /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app337227270#337227270#0(0"0(0#0#0"8600182208#269"    cd /Users/wooobing/Documents/Whereami    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wooobing/Documents/Whereami/build/Debug-iphonesimulator/blabla.app0#
+
