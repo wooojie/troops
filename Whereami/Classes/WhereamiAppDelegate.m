@@ -100,7 +100,7 @@
 {
 	MKAnnotationView *annotationView = [views objectAtIndex:0];
 	id <MKAnnotation> mp = [annotationView annotation];
-	MKCoordinateRegion region = MKCoordinateRegionMakeWithDistance([mp coordinate], 100, 100);
+	MKCoordinateRegion region = MKCoordinateRegionMakeWithDistance([mp coordinate], 600, 100);
 	[mv setRegion:region animated:YES];
 	[mv setCenterCoordinate:[mp coordinate] animated:YES];		
 }
